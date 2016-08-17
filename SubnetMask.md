@@ -1,6 +1,7 @@
 #### Subnet Mask Cheat Sheet -- Adapted from RFC1878 -- http://www.ietf.org/rfc/rfc1878.txt
 
 <center>
+
 |   | # Addresses  | # Hosts | Subnet Mask  |  Amt. of Class C |
 |---|---|---|---|---|
 | /30  | 4  | 2  |  255.255.255.252 | 1/64  |
