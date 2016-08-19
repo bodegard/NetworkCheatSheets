@@ -1,5 +1,5 @@
-# <center>___***Markdown Cheatsheet***___</center>
-###### <center>&copy;2016 Brandon Odegard</center>
+# ___***Markdown Cheatsheet***___
+
 ---
 
 
